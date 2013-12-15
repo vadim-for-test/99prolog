@@ -4,4 +4,4 @@
 
 # FIXME: now it should work!!! finally
 
-# @TODO: foobar
+# @todo: foobar
